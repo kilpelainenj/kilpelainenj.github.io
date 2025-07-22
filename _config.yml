@@ -1,0 +1,13 @@
+title: "Juho-Matti Kilpeläinen"
+description: "Personal Blog"
+url: "https://kilpelainenj.com"
+baseurl: ""
+
+theme: minima
+
+minima:
+  skin: classic 
+  nav_pages:
+    - index.md
+    - blog.md
+    - about.md
