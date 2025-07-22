@@ -4,25 +4,69 @@
 
 body {
     font-family: "Fira Code", Menlo, monospace;
-    font-size: 15px !important;
+    font-size: 16px !important;
     line-height: 1.1 !important;
+    background-color: #f5f1e0;
+    color: black;
+    /**color: #e67e22;**/
 }
-  
+
+mark { 
+    color: #d35400;
+    background-color: #f5f1e0;
+}
+ 
+a,
+a:visited {
+    color: #d35400;
+}
+
+.site-header .site-title a {
+    letter-spacing: 0.02em;
+}
+
 h1, h2, h3, h4, h5, h6 {
     font-family: "Fira Code", Menlo, monospace;
+    color: #c75b12;
 }
 
 .profile-figure {
-  float: right;              
-  width: 340px;              
-  margin: 0 1rem 1rem 2rem;  
+    float: right;              
+    width: 340px;              
+    margin: 0 1rem 1rem 2rem;  
 }
 
 .profile-figure img {
-  width: 100%;               
-  height: auto;
-  object-fit: cover;
-  border: 2px solid #fff;
-  border-radius: 12px;
-  display: block;
+    width: 100%;               
+    height: auto;
+    object-fit: cover;
+    border: 2px solid #fff;
+    border-radius: 12px;
+    display: block;
+}
+
+.profile-links {
+    margin-top: 0.5rem;     
+    display: flex;
+    gap: 0.5rem;            
+    justify-content: left;
+}
+  
+.profile-links a {
+    color: #777 !important;
+}
+  
+.profile-links svg {
+    fill: currentColor;
+    width: 32px;
+    height: 32px;
+}
+
+  
+#chapter-1 {
+    border-left: 4px solid #c75b12;
+    border-right: 4px solid #c75b12;
+  
+    padding: 0 1.5rem;
+    margin: 2rem auto;    
 }

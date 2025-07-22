@@ -1,9 +1,11 @@
 title: "Juho-Matti Kilpeläinen"
-description: "Personal Blog"
+description: ""
 url: "https://kilpelainenj.com"
 baseurl: ""
 
 theme: minima
+
+author: ""
 
 minima:
   skin: classic 
