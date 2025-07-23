@@ -70,3 +70,12 @@ h1, h2, h3, h4, h5, h6 {
     padding: 0 1.5rem;
     margin: 2rem auto;    
 }
+
+
+@media (max-width: 600px) {
+    .profile-figure {
+        float: none;
+        width: 100%;
+        margin: 0 0 1rem;
+    }
+}
