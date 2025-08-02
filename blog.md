@@ -1,7 +1,5 @@
 ---
-layout: page
-title: "Blog"
+layout: home
 permalink: /blog/
 ---
 
-Here's where you'll find all my posts:
