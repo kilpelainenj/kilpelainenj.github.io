@@ -83,6 +83,6 @@ title: "Home"
     On this page I'll be sharing some thoughts on stuff I find interesting, projects I'm working on, and the odd tutorial or resource
     I discover along the way.
 
-    You can find some blog posts (once I write some) <a href="/blog/"> here</a>!
+    You can find my blog posts <a href="/blog/"> here</a>!
     </p>
 </section>
