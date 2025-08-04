@@ -4,7 +4,7 @@ url: "https://kilpelainenj.com"
 baseurl: ""
 
 theme: minima
-
+google_analytics: "G-F4XPJ5X1EC"
 author: ""
 
 minima:
