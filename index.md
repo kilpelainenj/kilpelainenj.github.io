@@ -75,8 +75,8 @@ title: "Home"
     </p>
 
     <p>
-    I have also won multiple hackathons, the latest of which took our team to South-Korea, to represent Aalto University in the <mark>Global Student Startup</mark>
-    Competition.
+    I have also won multiple hackathons, the latest of which took our team to South-Korea, to represent Aalto University in the <mark>Global Student Startup
+    Competition. <\mark>
     </p>
 
     <p>
