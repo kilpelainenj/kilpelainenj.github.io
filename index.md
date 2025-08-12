@@ -69,8 +69,7 @@ title: "Home"
 
   <h2>Hi! I’m Juho-Matti, a math and CS student from Finland!</h2>
     <p>
-    Currently, I am interning at <mark>Nordea</mark>, doing Software in the FX Team.
-    Previously, I have been a Research Assistant at Aalto’s <mark>Computer Vision
+    Currently, I am a Machine Learning Engineer at <mark>Hamina Wireless</mark>. Previously, I have interned at  <mark>Nordea</mark>, doing Software in the FX Team and been a Research Assistant at Aalto’s <mark>Computer Vision
     Group</mark>, where I also wrote my Bachelor’s thesis on Learning-Based 3D Reconstruction.
     </p>
 
@@ -83,6 +82,6 @@ title: "Home"
     On this page I'll be sharing some thoughts on stuff I find interesting, projects I'm working on, and the odd tutorial or resource
     I discover along the way.
 
-    You can find my blog posts <a href="/blog/"> here</a>!
+    You can find my blog posts <u><a href="/blog/"> here</a></u>!
     </p>
 </section>
