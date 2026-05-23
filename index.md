@@ -69,7 +69,7 @@ title: "Home"
 
   <h2>Hi! I’m Juho-Matti, a math and CS student from Finland!</h2>
     <p>
-    Currently, I'm interning at <mark>QuantCo</mark>, in Zurich🇨🇭. Previously, I was a Machine Learning Engineer at <mark>Hamina Wireless</mark>, interned at  <mark>Nordea</mark>, working on software in the FX Team and been a Research Assistant at Aalto’s <mark>Computer Vision
+    Currently, I'm interning at <mark>Palantir</mark> in London🇬🇧. Previously, I was a Deep Learning Intern at <mark>QuantCo</mark> in Zurich🇨🇭, a Machine Learning Engineer at <mark>Hamina Wireless</mark>, a SWE intern at <mark>Nordea's</mark> FX Team, and a Research Assistant at Aalto’s <mark>Computer Vision
     Group</mark>, where I also wrote my Bachelor’s thesis on Learning-Based 3D Reconstruction.
     </p>
 
